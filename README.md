@@ -1,4 +1,4 @@
-# laptop_price_predictor
+# Laptop price predictor website
 In this project I built entire system for laptop price prediction. It started from data analysis till website deployment. 
 This project includes:
 * Data preprocessing
