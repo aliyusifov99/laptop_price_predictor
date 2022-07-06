@@ -1,5 +1,5 @@
 # Laptop price predictor website
-In this project I built a websote for laptop price prediction. It started from data analysis till website deployment. All the resources available in this repository.
+In this project I built a website for laptop price prediction. It started from data analysis till website deployment. All the resources available in this repository.
 This project includes:
 * Data preprocessing
 * Data cleaning
