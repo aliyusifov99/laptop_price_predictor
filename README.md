@@ -4,7 +4,7 @@
 
 Laptop Price Predictor is an innovative tool designed to estimate the market value of laptops. This project leverages machine learning techniques to analyze various features of laptops, providing users with accurate price predictions. Check out the Laptop Price Predictor [here](https://laptop-price-ml.streamlit.app/).
 
-![Alt text](URL_of_the_image)
+![Screenshot](https://github.com/aliyusifov99/laptop_price_predictor/blob/main/Assets/Screenshot.png)
 
 
 
