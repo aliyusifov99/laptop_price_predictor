@@ -31,7 +31,7 @@ The tool is straightforward to use. Simply input the laptop's specifications, an
 
 ### Data Preparation and Feature Engineering
 
-The foundation of our predictive model lies in meticulous data preparation and feature engineering. The dataset, comprising diverse laptop specifications and their market prices, undergoes a thorough cleaning process. Features with low correlation to the price, such as Flash storage and Hybrid types, are strategically dropped to streamline the model.
+The foundation of the predictive model lies in meticulous data preparation and feature engineering. The dataset, comprising diverse laptop specifications and their market prices, undergoes a thorough cleaning process. Features with low correlation to the price, such as Flash storage and Hybrid types, are strategically dropped to streamline the model.
 
 A significant aspect of our feature engineering involves the categorization of GPU options. Given the wide variety of GPUs, they are classified into three main categories: Intel, Nvidia, and AMD. This simplification aids in reducing complexity and improving the model's interpretability.
 
@@ -43,11 +43,11 @@ Data visualization plays a crucial role in our analysis, offering insights into 
 
 ### Model Building and Evaluation
 
-The core of the project is the machine learning model, trained on this carefully prepared dataset. We utilize advanced regression techniques to build a model that can accurately predict laptop prices based on their specifications. The model's performance is rigorously evaluated to ensure reliability and accuracy in price estimation.
+The core of the project is the machine learning model, trained on this carefully prepared dataset.Random Forest  regression techniques were utilized to build a model that can accurately predict laptop prices based on their specifications. The model's performance is rigorously evaluated to ensure reliability and accuracy in price estimation.
 
 ### Implementation and Tools
 
-Our model is implemented in Python, leveraging libraries like `pandas` for data manipulation and `scikit-learn` for the machine learning tasks. The project's codebase is structured to be transparent and easily understandable, encouraging contributions and collaborations.
+The model is implemented in Python, leveraging libraries like `pandas` for data manipulation and `scikit-learn` for the machine learning tasks. The project's codebase is structured to be transparent and easily understandable, encouraging contributions and collaborations.
 
 ## Contributions 👥
 
